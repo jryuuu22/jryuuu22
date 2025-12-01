@@ -11,10 +11,10 @@
 
 <h2>Education</h2>
 - <b>University of California San Diego (Sep 2025 - Present)</b>
-  - Bachelors of Science in Cognitive Sciences - Machine Learning and Neural Computation
-  - Relavent Coursework: Data Science in Practice
+  - Bachelor of Science in Cognitive Science - Machine Learning and Neural Computation
+  - Relevent Coursework: Data Science in Practice
 - <b>College of the Canyons</b>
-  - Associates in Science and Math, Associates in Liberal Arts
+  - Associate in Science and Math; Associate in Liberal Arts
   - Cumulative GPA: 3.79 | Psi Beta Honor Society
   - Relavent Coursework: Website Development, C Programming, Intro Algorithms and Prog/Java
 
