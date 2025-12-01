@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jay Wu! <br/><a href="https://github.com/jryuuu22">Programmer</a>, <a href="https://www.linkedin.com/in/jayrwu/">Data Research Analyst</a>, <a>Cognitive Science USCD Student Specializing in Machine Learning and Neural Cognition</a></h1>
+<h1>Hi, I'm Jay Wu! <br/><a href="https://github.com/jryuuu22">Programmer</a>, <a href="https://www.linkedin.com/in/jayrwu/">Data Research Analyst</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
@@ -10,11 +10,11 @@
   - [Learned and Developed a complete ML classification model](https://github.com/jryuuu22/heart-disease-classification)
 
 <h2>Education</h2>
-- **University of California San Diego (Sep 2025 – Present)**
+- **University of California San Diego (Sep 2025–Present)**
   - Bachelor of Science in Cognitive Science — Machine Learning and Neural Computation
   - Relevant Coursework: Data Science in Practice
 
-- **College of the Canyons**
+- **College of the Canyons(Aug 2020-May 2025)**
   - Associate in Science and Math; Associate in Liberal Arts
   - Cumulative GPA: 3.79 | Psi Beta Honor Society
   - Relevant Coursework: Website Development, C Programming, Intro to Algorithms and Java Programming
