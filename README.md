@@ -10,13 +10,15 @@
   - [Learned and Developed a complete ML classification model](https://github.com/jryuuu22/heart-disease-classification)
 
 <h2>Education</h2>
-- <b>University of California San Diego (Sep 2025 - Present)</b>
-  - Bachelor of Science in Cognitive Science - Machine Learning and Neural Computation
-  - Relevent Coursework: Data Science in Practice
-- <b>College of the Canyons</b>
+- **University of California San Diego (Sep 2025 – Present)**
+  - Bachelor of Science in Cognitive Science — Machine Learning and Neural Computation
+  - Relevant Coursework: Data Science in Practice
+
+- **College of the Canyons**
   - Associate in Science and Math; Associate in Liberal Arts
   - Cumulative GPA: 3.79 | Psi Beta Honor Society
-  - Relavent Coursework: Website Development, C Programming, Intro Algorithms and Prog/Java
+  - Relevant Coursework: Website Development, C Programming, Intro to Algorithms and Java Programming
+
 
 <h2> 🤳 Connect with me:</h2>
 
