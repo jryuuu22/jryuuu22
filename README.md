@@ -6,8 +6,8 @@
   - [Predictive Model on FT makes in Python](https://github.com/jryuuu22/basketball-eclipse-project)
 - <b>End-to-End Bulldozer Price Regression</b>
   - [Full ML Pipeline Implementation](https://github.com/jryuuu22/end-to-end-bulldozer-price-regression) 
-- <b>Heart-Disease Classification</b>
-  - [Learned and Developed a complete ML classification model](https://github.com/jryuuu22/heart-disease-classification)
+- <b>Regional Influence on Professional Esports Player Earnings Project</b>
+  - [Determined the influence of region on Esports winnings based on data](https://github.com/COGS108/Group117_FA25)
 
 <h2>Education</h2>
 
