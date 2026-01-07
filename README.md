@@ -10,6 +10,8 @@
   - [Determined the influence of region on Esports winnings based on data](https://github.com/COGS108/Group117_FA25)
 - <b>Muti-Class Dog Breed Classification</b>
   - [Developed a MobileNetV2-based image classifier for dog breeds](https://github.com/jryuuu22/Dog_Classification_Model)
+- <b>Heart-Disease Classification</b>
+  - [Developed a machine learning pipeline to classify heart disease from patient clinical data](https://github.com/jryuuu22/heart-disease-classification)
 
 
 <h2>Education</h2>
