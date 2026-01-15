@@ -30,8 +30,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="JayWu | Phone" width="22px" src="telephone-60.svg" />](tel:+16616076057)
 [<img align="left" alt="JayWu | Gmail" width="22px" src="Gmail.svg" />](mailto:wujayr57@gmail.com)
 [<img align="left" alt="JayWu | LinkedIn" width="22px" src="LinkedIN (1).svg" />](https://www.linkedin.com/in/jayrwu/)
 
