@@ -7,7 +7,7 @@
 - <b>End-to-End Bulldozer Price Regression</b>
   - [Full ML Pipeline Implementation](https://github.com/jryuuu22/end-to-end-bulldozer-price-regression) 
 - <b>Regional Influence on Professional Esports Player Earnings Project</b>
-  - [Determined the influence of region on Esports winnings based on data](https://github.com/COGS108/Group117_FA25)
+  - [Determined the influence of region on Esports winnings based on data](https://github.com/jryuuu22/Regional-Influence-On-Professional-Esports-Players)
 - <b>Muti-Class Dog Breed Classification</b>
   - [Developed a MobileNetV2-based image classifier for dog breeds](https://github.com/jryuuu22/Dog_Classification_Model)
 - <b>Heart-Disease Classification</b>
