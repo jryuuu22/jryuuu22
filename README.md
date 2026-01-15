@@ -19,7 +19,7 @@
 - **University of California San Diego (Sep 2025 – Present)**
   - Bachelor of Science in Cognitive Science — Machine Learning and Neural Computation
   - Cumulative GPA: 4.00
-  - Relevant Coursework: Data Science in Practice
+  - Relevant Coursework: Data Science in Practice, Brain Computer Interfaces 
 
 - **College of the Canyons (Aug 2020 – May 2025)**
   - Associate in Science and Math; Associate in Liberal Arts
