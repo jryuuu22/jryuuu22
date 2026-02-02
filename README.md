@@ -30,10 +30,27 @@
   - Relevant Coursework: Website Development, C Programming, Intro to Algorithms and Java Programming
  
 <h2>🛠️Technical Stack</h2>
-- Language: SQL, Python
-- Libraries: Pandas, NumPy, Scikit-Learn, XGBoost, TensorFlow, Matplotlib, Seaborn
-- Visualization: Tableau, Power BI, Snowflake
-- Tools: Git, Jupyter, Google Colab, Excel
+**Languages**
+- Python
+- SQL
+
+**Data Analysis & Machine Learning**
+- Pandas
+- NumPy
+- scikit-learn
+- XGBoost
+- TensorFlow
+
+**Business Intelligence & Visualization**
+- Power BI
+- Tableau
+
+**Tools**
+- Git & GitHub
+- Snowflake
+- Jupyter Notebook
+- Google Colab
+- Excel
 
 <h2> 🤳 Connect with me:</h2>
 
