@@ -29,29 +29,12 @@
   - Cumulative GPA: 3.79 | Psi Beta Honor Society
   - Relevant Coursework: Website Development, C Programming, Intro to Algorithms and Java Programming
  
-<h2>🛠️Technical Stack</h2>
-**Languages**
-- Python
-- SQL
+<h2>🛠️ Tools</h2>
 
-**Data Analysis & Machine Learning**
-- Pandas
-- NumPy
-- scikit-learn
-- XGBoost
-- TensorFlow
-
-**Business Intelligence & Visualization**
-- Power BI
-- Tableau
-
-**Tools**
-- Git & GitHub
-- Snowflake
-- Jupyter Notebook
-- Google Colab
-- Excel
-
+- Language: SQL, Python
+- Data Analysis & Machine Learning: Pandas, NumPy, scikit-learn, XGBoost, TensorFlow
+- Visualization: Power BI, Tableau
+- Tools: Git & GitHub, Jupyter Notebook, Google Colab, Excel
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JayWu | Gmail" width="22px" src="Gmail.svg" />](mailto:wujayr57@gmail.com)
