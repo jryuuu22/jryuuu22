@@ -21,6 +21,7 @@
 
 - **University of California San Diego (Sep 2025 – Present)**
   - Bachelor of Science in Cognitive Science — Machine Learning and Neural Computation
+  - Minor in Data Science
   - Cumulative GPA: 4.00
   - Relevant Coursework: Data Science in Practice, Brain Computer Interfaces 
 
