@@ -39,5 +39,5 @@
 
 [<img align="left" alt="JayWu | Gmail" width="22px" src="Gmail.svg" />](mailto:wujayr57@gmail.com)
 [<img align="left" alt="JayWu | LinkedIn" width="22px" src="LinkedIN (1).svg" />](https://www.linkedin.com/in/jayrwu/)
-[<img align="left" alt="JayWu | Tableau" width="22px" src="LinkedIN (1).svg" />](https://public.tableau.com/app/profile/jay.wu1147/vizzes)
+[<img align="left" alt="JayWu | Tableau" width="22px" src="Tableau-Logo.svg" />](https://public.tableau.com/app/profile/jay.wu1147/vizzes)
 
